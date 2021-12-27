@@ -40,6 +40,7 @@ const obtenerPokemones = async () => {
 obtenerPokemones();
 */
 //Map
+/*
 const obtenerPokemones = async () => {
     try {
       const res = await fetch("https://pokeapi.co/api/v2/pokemon/");
@@ -52,7 +53,9 @@ const obtenerPokemones = async () => {
     }
   };
   obtenerPokemones();
+  */
   //Filter
+  /*
 const obtenerPokemones = async () => {
     try {
       const res = await fetch("https://pokeapi.co/api/v2/pokemon/");
@@ -65,3 +68,4 @@ const obtenerPokemones = async () => {
     }
   };
   obtenerPokemones();
+  */
